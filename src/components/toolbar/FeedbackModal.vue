@@ -17,8 +17,8 @@ const emit = defineEmits([
       <div>
         给我发Email：<a href="mailto:aiedu2025@outlook.com">aiedu2025@outlook.com</a>
       </div>
-      <p  display="none">or</p>
-      <div class="github" display="none">
+      <p style="display: none;">or</p>
+      <div class="github" style="display: none;">
         <span>在<a :href="GITHUB" target="_blank">Github</a>上给我提一个
         <a :href="`${GITHUB}/issues`" target="_blank">Issue</a>
         </span>
