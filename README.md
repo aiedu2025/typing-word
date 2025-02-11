@@ -1,5 +1,5 @@
 <h1 align="center">
-  Typing Word
+  吾爱背单词
 </h1>
 
 <p align="center">
