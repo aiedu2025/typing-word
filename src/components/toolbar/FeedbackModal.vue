@@ -17,25 +17,50 @@ const emit = defineEmits([
       <div>
         给我发Email：<a href="mailto:aiedu2025@outlook.com">aiedu2025@outlook.com</a>
       </div>
-      <p style="display: none;">or</p>
-      <div class="github" style="display: none;">
-        <span>在<a :href="GITHUB" target="_blank">Github</a>上给我提一个
-        <a :href="`${GITHUB}/issues`" target="_blank">Issue</a>
+      <p>平顶山舞钢智适应教育科技<hr></p>
+        <span style="font-size: 15rem;color: gray;margin-bottom: 5rem;text-align: justify;text-align-last: justify;">
+		大模型 + 自适应学习 = 专属Ai老师配置到家<br>
+		不到300元/月 | 超传统1对1的效果 | 省钱有效
         </span>
+		<div data-v-8eb5bd9e="" class="git-log"> 
+		</div>
+		<a :href="`https://v.douyin.com/iPDwV4nM`" target="_blank" style="font-size: 10rem;color: gray;margin-bottom: 5rem;">Build d2753d0 (dev) @2017-2025</a>
+	  <!-- <img src="/vxmp封面S_250205Tel.png" alt="">  -->
+      <div class="github">
+		<!-- ai_edu2016
+		在<a :href="GITHUB" target="_blank">Github</a>上给我提一个 
+		<a :href="`${GITHUB}/issues`" target="_blank">Issue</a>
+		2025Deepseek后ai时代<br>
+		-->
+		  
+        <!-- 
         <div class="options">
           <BaseButton>
-            <a :href="`${GITHUB}/issues/new?assignees=&labels=&projects=&template=%E5%8D%95%E8%AF%8D%E9%94%99%E8%AF%AF---word-error.md&title=%E5%8D%95%E8%AF%8D%E9%94%99%E8%AF%AF+%7C+Word+error`"
-               target="_blank">词典错误？</a>
+            <a :href="`${GITHUB}/`" title="10小时掌握完一学期知识点"
+               target="_blank">中高考ai精准备考</a>
           </BaseButton>
           <BaseButton>
-            <a :href="`${GITHUB}/issues/new?assignees=&labels=&projects=&template=问题报告---bug-report-.md&title=问题报告+%7C+Bug+report+`"
-               target="_blank">反馈BUG？</a>
+            <a :href="`${GITHUB}/`" title=""
+               target="_blank">中学生ai全科辅导</a>
           </BaseButton>
           <BaseButton>
-            <a :href="`${GITHUB}/issues/new?assignees=&labels=&projects=&template=功能请求---feature-request.md&title=功能请求+%7C+Feature+request`"
-               target="_blank">功能请求？</a>
+            <a :href="`${GITHUB}/`" title="松鼠ai 9折|赶考ai小状元 7折|内部会员 折上折"
+               target="_blank">ai学习机内部团购</a>
+          </BaseButton>
+		  <BaseButton>
+            <a :href="`${GITHUB}/grade/1`"
+               target="_blank">小学</a>
+          </BaseButton>
+          <BaseButton>
+            <a :href="`${GITHUB}/grade/7`"
+               target="_blank">初中</a>
+          </BaseButton>
+          <BaseButton>
+            <a :href="`${GITHUB}/grade/10`"
+               target="_blank">高中</a>
           </BaseButton>
         </div>
+		-->
       </div>
     </div>
   </Dialog>

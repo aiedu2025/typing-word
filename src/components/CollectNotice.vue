@@ -5,6 +5,8 @@ import Close from "@/components/icon/Close.vue";
 import BaseButton from "@/components/BaseButton.vue";
 import {watch} from "vue";
 import {useSettingStore} from "@/stores/setting.ts";
+import {APP_NAME} from "@/utils/const.ts";//a+
+let url = window.location.href;//a+
 
 let settingStore = useSettingStore()
 let showNotice = $ref(false)
@@ -41,7 +43,7 @@ const isMac = /macintosh|mac os x/i.test(navigator.userAgent);
     <div class="CollectNotice" v-if="show">
       <div class="notice">
         坚持练习，提高外语能力。将
-        <span class="active">「吾爱背单词」</span>
+        <span class="active">「{{ APP_NAME }}」</span>
         保存到收藏夹，永不迷失！
       </div>
       <div class="wrapper">
@@ -49,7 +51,7 @@ const isMac = /macintosh|mac os x/i.test(navigator.userAgent);
           <div class="collect" v-if="showNotice">
             <div class="href-wrapper">
               <div class="round">
-                <div class="href">typing-word.ttentau.top</div>
+                <div class="href">{{ url }}</div>
                 <Icon
                     width="22"
                     icon="mdi:star-outline"/>

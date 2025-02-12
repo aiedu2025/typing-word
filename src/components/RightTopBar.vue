@@ -30,8 +30,8 @@ const settingStore = useSettingStore()
 
     <a href="https://www.gankao.com/" target="_blank">
       <BaseIcon
-          title="赶考ai"
-          icon="mdi:github"/>
+          title="平顶山舞钢智适应教育科技"
+          icon="mdi:google"/>
     </a>
   </div>
 </template>
