@@ -48,6 +48,32 @@ export const DefaultBaseState = (): BaseState => ({
     },
     {
       ...cloneDeep(DefaultDict),
+      id: 'gaokao3500',
+      name: '高考 3500 词',
+      description: '高考常见词 3500',
+      category: '青少年英语',
+      tags: ['通用'],
+      url: 'GaoKao_3500.json',
+      length: 3893,
+      translateLanguage: 'common',
+      language: 'en',
+      type: DictType.word
+    },
+    {
+      ...cloneDeep(DefaultDict),
+      id: 'zhongkaohexin',
+      name: '中考核心词',
+      description: '中考核心词',
+      category: '青少年英语',
+      tags: ['通用'],
+      url: 'ZhongKaoHeXin.json',
+      length: 2140,
+      translateLanguage: 'common',
+      language: 'en',
+      type: DictType.word
+    },
+    {
+      ...cloneDeep(DefaultDict),
       id: 'cet4',
       name: 'CET-4',
       description: '大学英语四级词库',
