@@ -27,11 +27,12 @@ const settingStore = useSettingStore()
         <Icon icon="tabler:sun" v-else @click="toggleTheme"/>
       </IconWrapper>
     </Tooltip>
-
-    <a href="https://www.gankao.com/" target="_blank">
+	
+    <a href="https://www.gankao.com/p-account/statistics/info?gankaoUID=12598433" target="_blank">
       <BaseIcon
           title="平顶山舞钢智适应教育科技"
           icon="mdi:google"/>
+		  <!-- |600元/全科|覆盖全学科 -->
     </a>
   </div>
 </template>

@@ -7,6 +7,18 @@ const emit = defineEmits([
   'close',
 ])
 
+var hostname = window.location.href;//a+
+var pathname = window.location.pathname.replace(/\/$/, '');//a+
+function getShortDomain(url) {
+    const hostname = new URL(url).hostname;
+    const parts = hostname.split('.');
+    if (parts.length > 2) {
+        return parts.slice(-2).join('.');
+    }
+    return hostname;
+}
+var shortDomain = getShortDomain(hostname);
+//console.log(shortDomain);
 </script>
 
 <template>
@@ -15,7 +27,7 @@ const emit = defineEmits([
       title="反馈">
     <div class="feedback-modal">
       <div>
-        给我发Email：<a href="mailto:aiedu2025@outlook.com">aiedu2025@outlook.com</a>
+        给我发Email：<a href="mailto:admin@wugang.asia">admin@{{ shortDomain }}</a>
       </div>
       <p>平顶山舞钢智适应教育科技<hr></p>
         <span style="font-size: 15rem;color: gray;margin-bottom: 5rem;text-align: justify;text-align-last: justify;">
@@ -24,7 +36,7 @@ const emit = defineEmits([
         </span>
 		<div data-v-8eb5bd9e="" class="git-log"> 
 		</div>
-		<a :href="`https://v.douyin.com/iPDwV4nM`" target="_blank" style="font-size: 10rem;color: gray;margin-bottom: 5rem;">Build d2753d0 (dev) @2017-2025</a>
+		<a :href="`https://v.douyin.com/iPDwV4nM`" target="_blank" style="font-size: 10rem;color: gray;margin-bottom: 5rem;">Build d2853d0 (dev) @2017-2025</a>
 	  <!-- <img src="/vxmp封面S_250205Tel.png" alt="">  -->
       <div class="github">
 		<!-- ai_edu2016
