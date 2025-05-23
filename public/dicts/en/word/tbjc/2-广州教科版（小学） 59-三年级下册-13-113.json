@@ -1,0 +1,680 @@
+﻿[
+  {
+    "name": "colour",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "like",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "go",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "to",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "idea",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "red",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "great",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "yellow",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "blue",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "white",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "look",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "at",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "look at",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "funny",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "crayon",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hat",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "orange",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "purple",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "brown",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "black",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "green",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "position",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "where",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "where's",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "robot",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "doll",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pencil box",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "near",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "English",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "front",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "in front of",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "TV",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "behind",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "schoolbag",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "beside",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "personal",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "information",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "happy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "birthday",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Happy birthday",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "how",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "How old",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "guess",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "one",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "two",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "three",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "four",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "five",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "six",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "seven",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "eight",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "nine",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "for",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "little",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ten",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "telephone",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "number",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "zero",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fruit",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "have",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "some",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "grape",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "want",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "banana",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "we",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "but",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "then",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "apple",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pear",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "can",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Can I",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "of course",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "get",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "relative",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "photo",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "there",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "there is",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cousin",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "grandfather",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "grandmother",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "heavy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "short",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "lovely",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "many",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "How many",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "people",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "they",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "big",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pet",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "any",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "shop",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "aren't",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "duck",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "over",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "over there",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "those",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "has",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "buy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fish",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "monkey",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bird",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "chicken",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "whose",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "these",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "small",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "long",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tail",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "very",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "really",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mouse",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mice",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pig",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "horse",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  }
+]

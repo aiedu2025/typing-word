@@ -1,0 +1,1190 @@
+﻿[
+  {
+    "name": "colour",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "black",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "white",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "red",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "yellow",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "blue",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "green",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "orange",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pink",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "brown",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "purple",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "line",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "circle",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "square",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "big",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "small",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "straight",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "curly",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "round",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "long",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "clothes",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "wear",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "coat",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "jacket",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "shirt",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "T-shirt",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sweater",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dress",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "skirt",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "trousers",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pants",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "shorts",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sock",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "shoe",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cap",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hat",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "scarf",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "glove",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "glasses",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "buy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sell",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "spend",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cost",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "price",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dollar",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cent",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "size",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sale",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "expensive",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cheap",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "diet",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "food",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "eat",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "meal",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "breakfast",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "lunch",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dinner",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rice",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "noodle",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dumpling",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bread",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hamburger",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sandwich",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pizza",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pie",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "meat",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "beef",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pork",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "egg",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fruit",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "apple",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "banana",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "grape",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "peach",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pear",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "watermelon",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "strawberry",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "vegetable",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "carrot",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "onion",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cabbage",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "potato",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tomato",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "peanut",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ice cream",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "biscuit",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cake",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "candy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "chocolate",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sausage",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "salad",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "chip",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "drink",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "water",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "milk",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "coffee",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tea",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cola",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "juice",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "soup",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "chopstick",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "knife",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fork",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "plate",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bowl",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "spoon",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cup",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sweet",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "spicy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Monday",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Tuesday",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Wednesday",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Thursday",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Friday",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Sunday",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "weekend",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "January",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "February",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "March",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "April",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "May",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "June",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "July",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "August",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "September",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "October",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "November",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "December",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "one",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "two",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "three",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "four",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "five",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "first",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "second",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "third",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fourth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fifth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "six",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "seven",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "eight",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "nine",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ten",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sixth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "seventh",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "eighth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ninth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tenth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "eleven",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "twelve",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "thirteen",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fourteen",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fifteen",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "eleventh",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "twelfth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "thirteenth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fourteenth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fifteenth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sixteen",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "seventeen",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "eighteen",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "nineteen",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "twenty",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sixteenth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "seventeenth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "eighteenth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "nineteenth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "twentieth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "thirty",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "forty",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fifty",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sixty",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "seventy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "eighty",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ninety",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hundred",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "thousand",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "million",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "time",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "yesterday",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "today",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tomorrow",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "o'clock",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "am",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pm",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "morning",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "noon",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "afternoon",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "evening",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "night",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tonight",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "now",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "future",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "someday",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "never",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sometimes",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "often",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "usually",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  }
+]

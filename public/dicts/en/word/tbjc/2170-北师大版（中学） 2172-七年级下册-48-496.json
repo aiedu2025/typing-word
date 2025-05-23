@@ -1,0 +1,2978 @@
+﻿[
+  {
+    "name": "daily",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "routine",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tooth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "get up",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "go to bed",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sleep",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "go to school",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "make one's bed",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "take a shower",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "wash",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "face",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "after-school",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "activity",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "drum",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "never",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "alone",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "seldom",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "a lot of",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "always",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "news",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sometimes",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "finish",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "early",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "match",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "note",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cinema",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "important",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "firefighter",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dangerous",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "difficult",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "easy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fire",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "interesting",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "safe",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "training",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "later",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "eat",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "because",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "km",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "not at all",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rest",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "practise",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "drive",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "firefighting",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "communicate",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "free",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "if",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "or",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "someone",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "have to",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "try",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "best",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "try one's best",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "keep",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "false",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "safety",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bicycle",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "walk",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "storm",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "travel",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "online",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "during",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bad",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "lightning",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "stay",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "phone",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "kid",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mean",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "point",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "have a point",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "address",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "smoke",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bath",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "away",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "stay away from",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "minute",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "more",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "star",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dress",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "need",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "violin",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "chore",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "clean",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dust",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "feed",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "floor",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rubbish",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "water",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "busy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sweep",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cup",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "anything",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "worry",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "in a minute",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ring",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "knock",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "candle",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "wonderful",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dish",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "nose",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "communication",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tool",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "instant",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "message",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "instant message",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "text",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "send",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "receive",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "while",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "for a while",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hey",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "slow",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "just",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "website",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bank",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bus stop",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "museum",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "police",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "station",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "police station",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "post",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "office",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "post office",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "underground",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "way",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "excuse",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cross",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "street",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "road",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "corner",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "miss",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "opposite",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "across",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "coffee",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "town",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "square",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "gym",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "drink",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "banana",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "beef",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "carrot",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "chicken",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "grape",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ham",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "milk",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pear",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "potato",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tomato",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "watermelon",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fruit",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "vegetable",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "meat",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "price",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "weight",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cent",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dollar",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pound",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "kilo",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bill",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "change",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "south",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "market",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "unit",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "unit price",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "total",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fresh",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "customer",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "money",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cost",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "any",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "wallet",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "restaurant",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "menu",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "item",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hamburger",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hot dog",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ice cream",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "salad",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sandwich",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "soup",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tea",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "chocolate",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "healthy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "may",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "order",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "would",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sir",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "piece",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bowl",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cone",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bread",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "butter",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cheese",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cookie",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "egg",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "noodle",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pancake",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rice",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "salt",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sugar",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "thought",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "food for thought",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "top",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "secret",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "kind",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "swimmer",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "meal",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "different",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "heavy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "person",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "than",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "snack",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "junk",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "junk food",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "report",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "most",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "however",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "group",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "season",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "weather",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "autumn",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "spring",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "summer",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "winter",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cloudy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cold",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rainy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "snowy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sunny",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "warm",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "windy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "month",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "January",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "February",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "March",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "April",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "May",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "June",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "August",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "September",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "October",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "November",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "December",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "wear",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "overcoat",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "glove",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "scarf",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "snow",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tourist",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "trainer",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fly",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hard",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "T-shirt",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "shorts",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "skirt",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "palace",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "remember",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dry",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "spend",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "leaf",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "will",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "make sure",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "comfortable",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "colourful",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "around",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cloud",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sun",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "wind",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tomorrow",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sightseeing",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "beach",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "visitor",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "holiday",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "camp",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tour",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "learn",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "abroad",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "eighth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "second",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fifth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ninth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "guess",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "exciting",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fourth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "seventh",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "beautiful",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mountain",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "clear",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "last",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "trip",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sea",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "penfriend",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "nest",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tonight",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rock",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "concert",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "postcard",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "project",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "plan",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "party",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "example",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "flower",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "village",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fairytale",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "enjoy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "stone",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cave",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hiking",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "island",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sand",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "reason",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "festival",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "skate",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ski",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "primary",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "primary school",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "third",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sixth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tenth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cheap",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "close",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dirty",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "expensive",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "far",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hometown",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "building",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "neighbour",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "friendly",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "still",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "large",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "flat",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "traffic",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "either",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "truck",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "yesterday",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fast-food restaurant",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "open",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ago",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "centre",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "candy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "true",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "feeling",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "afraid",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "angry",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "excited",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "nervous",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sad",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "story",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "laugh",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "quiet",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Ms.",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "introduce",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "noisy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "smile",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cry",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "difference",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "memory",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "loud",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "forget",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "another",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "slowly",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "junior",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "junior high school",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pay",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "attention",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pay attention",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "graduate",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "middle",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "anniversary",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "writer",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "proud",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "something",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "beginning",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "at first",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "test",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "happen",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "trouble",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "be in trouble",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "respect",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "heart",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "begin",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hear",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "glad",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "anyway",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "review",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "grade",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "loudly",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "poster",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "buy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "experience",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "speed",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "recording",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "understand",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "perfect",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mistake",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "suggestion",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "catch",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "key",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "main",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "simple",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sentence",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "meaning",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "improve",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "give up",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "general",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "quickly",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "look up",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "clearly",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "follow",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "animal",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "kingdom",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cow",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "duck",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "elephant",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "giraffe",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hen",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "lion",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "monkey",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "panda",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "penguin",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pig",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "sheep",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tiger",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "farm",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "wild",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rabbit",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mouse",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "snake",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "cute",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "helpful",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ugly",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "useful",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "blind",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "scientist",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "body",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "part",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ear",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fat",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "eye",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "head",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "neck",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "easily",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mile",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "lay",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "still",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "spread",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "wide",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bend",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "reach",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ground",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "horse",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hold",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "dear",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "baby",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "look after",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "even",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "happily",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "grow",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "become",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "finally",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "few",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "a few",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "suddenly",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hurt",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hug",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "recognise",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "warmly",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "believe",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "leave",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "freely",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "feel",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "climb",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "huge",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "all the time",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "parrot",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hungry",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "koala",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "through",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "guide",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "US",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Hong Kong",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "London",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "UK",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Great Wall",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Tian'anmen Square",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Summer Palace",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Fragrant Hills Park",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "New York",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Sydney",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Terracotta Warriors",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Palace Museum",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Bird's Nest",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Stone Forest",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Heaven's Lake",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Asia",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Africa",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  }
+]
